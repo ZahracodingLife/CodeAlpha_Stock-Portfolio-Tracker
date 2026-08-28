@@ -1,0 +1,7 @@
+========== STOCK PORTFOLIO ==========
+
+MSFT | 5 shares | $500 | $2500
+AAPL | 4 shares | $180 | $720
+TSLA | 3 shares | $250 | $750
+
+Total investment: $3970
